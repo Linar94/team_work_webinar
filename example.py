@@ -9,16 +9,4 @@ print("print 1")
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 print("it's realy last print")
